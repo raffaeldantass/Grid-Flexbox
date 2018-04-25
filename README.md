@@ -28,3 +28,28 @@ Aqui serão mostrados exemplos de como o flexbox pode trabalhar controlando pequ
 
 #### Utilizando o Flexbox 3
 Aqui serão mostrados exemplos de como o flexbox pode trabalhar controlando pequenos elementos com comportamento mais simples
+
+#### Demonstrando um exemplo prático do Flexbox
+Após o entendimento dos conceitos, será aplicado todo o aprendizado em uma página simples. 
+
+## Capítulo 3
+#### Introdução ao Grid Layout
+Aqui iremos entender um pouco sobre a o conceito de Grid Layout
+
+#### Terminologia do Grid Layout
+Falaremos um pouco sobre a terminologia existente no Grid Layout e a importancia desses conceitos na hora de aplicar, de forma prática. 
+
+#### Utilizando o Flexbox 1
+Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
+
+#### Utilizando o Flexbox 2
+Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
+
+#### Utilizando o Flexbox 3
+Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
+
+#### Utilizando o Flexbox 4
+Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
+
+#### Demonstrando um exemplo prático de Grid
+Após o entendimento dos conceitos, será aplicado todo o aprendizado em uma página que exija o controle bidimensional. 
