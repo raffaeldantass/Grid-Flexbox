@@ -39,17 +39,30 @@ Aqui iremos entender um pouco sobre a o conceito de Grid Layout
 #### Terminologia do Grid Layout
 Falaremos um pouco sobre a terminologia existente no Grid Layout e a importancia desses conceitos na hora de aplicar, de forma prática. 
 
-#### Utilizando o Flexbox 1
+#### Utilizando o Grid Layout 1
 Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
 
-#### Utilizando o Flexbox 2
+#### Utilizando o Grid Layout 2
 Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
 
-#### Utilizando o Flexbox 3
+#### Utilizando o Grid Layout 3
 Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
 
-#### Utilizando o Flexbox 4
+#### Utilizando o Grid Layout 4
 Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando os elementos mais complexos dentro do layout
 
 #### Demonstrando um exemplo prático de Grid
 Após o entendimento dos conceitos, será aplicado todo o aprendizado em uma página que exija o controle bidimensional. 
+
+## Capítulo 4 
+#### Iniciando o projeto com Grid e Flexbox
+Utilizaremos CSS Grid Layout e Flexbox para construir uma pequena página pessoal com alguns conceitos aprendidos nos capitulos anteriores. 
+
+#### Desenvolvendo o projeto
+Continuaremos desenvolvendo o projeto e testando em diferentes navegadores para ver a compatibilidade. 
+
+#### Criando fallbacks para navegadores antigos parte 1
+Aqui explicarei o que é necessário fazer para dar suporte a navegadores antigos caso seja necessário. 
+
+#### Criando fallbacks para navegadores antigos parte 2
+Continuarei explicando e aplicando fallbacks para navegadores antigos. 
