@@ -21,7 +21,13 @@ Mostrar um pouco da história da Web e da forma como se fazia layouts antigament
 ## Capitulo 3 - Frameworks Vs Nativo
 (Minha opinião) Falar sobre a necessidade de aprender CSS Puro e não depender de frameworks, mostrar as possibilidades com CSS Grid e Flexbox
 
-## Capítulo 4
+### Capitulo 4 - Como era antigamente
+- Position Absolute / Relative;
+- Position Fixed;
+- Static;
+- Stick.
+
+## Capítulo 5
 #### Introdução ao Flexbox
 Darei uma breve introdução aos conceitos e história do Flexbox e o porquê aprenderemos ele neste curso.
 
@@ -38,7 +44,7 @@ Aqui serão mostrados exemplos de como o flexbox pode trabalhar controlando pequ
 Após o entendimento dos conceitos, será aplicado todo o aprendizado em uma página simples. 
 Criaremos um pequeno grid 12 colunas com o que foi aprendido nas aulas anteriores. 
 
-## Capítulo 5
+## Capítulo 6
 #### Terminologia do Grid Layout
 Falaremos um pouco sobre a terminologia existente no Grid Layout e a importancia desses conceitos na hora de aplicar, de forma prática. 
 
@@ -57,14 +63,14 @@ Aqui serão mostrados exemplos de como o Grid Layout pode trabalhar controlando 
 #### Demonstrando um exemplo prático de Grid
 Após o entendimento dos conceitos, será aplicado todo o aprendizado em uma página que exija o controle bidimensional. 
 
-## Capítulo 6
+## Capítulo 7
 #### Apresentação do projeto a ser construído
 Será uma pequena página pessoal que utilizará Grid e Flexbox.
 
 #### Preparação do ambiente
 Iremos preparar o ambiente de desenvolvimento. 
 
-## Capitulo 7
+## Capitulo 8
 #### Iniciando o projeto com Grid e Flexbox
 Utilizaremos CSS Grid Layout e Flexbox para construir uma pequena página pessoal com alguns conceitos aprendidos nos capitulos anteriores. 
 
@@ -88,13 +94,6 @@ Posicionamento dos elementos internos de cada componente com Flexbox.
 
 #### Desenvolvendo o projeto - parte 7
 Estilizar os elementos internos dentro dos componentes. 
-
-## Capitulo 8 
-#### Criando fallbacks para navegadores antigos parte 1
-Aplicarei suporte a navegadores antigos utilizando o proprio flexbox. 
-
-#### Criando fallbacks para navegadores antigos parte 2
-Replicarei isso nas folhas de estilo das outras páginas.
 
 ## Conclusao
 #### Overview sobre o que aprendemos
