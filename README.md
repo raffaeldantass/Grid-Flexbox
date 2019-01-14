@@ -24,8 +24,8 @@ Mostrar um pouco da história da Web e da forma como se fazia layouts antigament
 ### Capitulo 4 - Como era antigamente
 - Position Absolute / Relative;
 - Position Fixed;
-- Static;
-- Stick.
+- Position Static;
+- Position Stick.
 
 ## Capítulo 5
 #### Introdução ao Flexbox
